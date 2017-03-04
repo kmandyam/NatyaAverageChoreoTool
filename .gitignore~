@@ -1,1 +1,6 @@
 node_modules
+<<<<<<< HEAD
+www/bundle.js
+=======
+.babelrc
+>>>>>>> 0e9d34abf328a96871b0ce9c9dead8b8ad39265e
