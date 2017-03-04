@@ -10,11 +10,11 @@
     "webpack": "^2.2.1",
     "webpack-dev-middleware": "^1.10.1"
   },
-  "description": "NatyaAverageChoreoTool",
+  "description": "My Project",
   "keywords": [],
   "license": "ISC",
   "main": "index.js",
-  "name": "natya-average-choreo-tool",
+  "name": "my-project",
   "scripts": {
     "compile": "webpack",
     "start": "node server.js",
